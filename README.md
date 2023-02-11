@@ -1,26 +1,23 @@
-# 프로젝트 이름
+# 프로젝트 개요
+
+* 프로젝트명 : WinAPI 오목 TCP/IP서버 
+* 제작기간 : 2개월
+* 플랫폼 : PC
+* 언어 : C/C++
+* 장르 : 오목게임
+* 엔진, 툴 : WinAPI 응용프로그램
+
+## 프로젝트 설명
 
 <p align="center">
   <br>
-  <img src="./images/sample.png">
+  <img src="./images/sample.PNG">
   <br>
 </p>
 
-## 프로젝트 소개
-
 <p align="justify">
-프로젝트 개요/동기
+프로젝트 설명
 </p>
-
-
-<br>
-
-## 기술 스택
-
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
-
 <br>
 
 ## 구현 기능
@@ -41,15 +38,4 @@
 
 </p>
 
-<br>
 
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/javascript.svg
-[ts]: /images/typescript.svg
-[react]: /images/react.svg
-[node]: /images/nodejs.svg
