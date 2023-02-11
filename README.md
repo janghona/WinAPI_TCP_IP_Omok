@@ -2,11 +2,9 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="./images/sample.png">
   <br>
 </p>
-
-목차
 
 ## 프로젝트 소개
 
@@ -14,9 +12,6 @@
 프로젝트 개요/동기
 </p>
 
-<p align="center">
-GIF Images
-</p>
 
 <br>
 
@@ -54,7 +49,7 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 <!-- Stack Icon Refernces -->
 
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
+[js]: /images/javascript.svg
+[ts]: /images/typescript.svg
+[react]: /images/react.svg
+[node]: /images/nodejs.svg
