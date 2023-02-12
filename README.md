@@ -9,11 +9,7 @@
 
 ## 프로젝트 설명
 
-<p align="center">
-  <br>
-  <img src="./images/sample.PNG">
-  <br>
-</p>
+  <img src="./images/sample.PNG" width="700" height="400">
 
 <p align="justify">
 프로젝트 설명
